@@ -1,4 +1,6 @@
-### Hi there 👋
+### Мой стек
+
+[<img title="vcode" alt="vcode" src="img/logo/vcode.png">]
 
 <!--
 **rustam6274/rustam6274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
