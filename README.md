@@ -6,7 +6,9 @@
 ### ESP32 STM32 FreeRTOS
 
 
- <i class="devicon-android-plain"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+          
           
 
           
