@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none"><img src="https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F&font=Fira%50Code&center=true&width=780&height=50&duration=4000&pause=1000"></a>
-  <p align="center" style="color:#FF0000">Мои разработки</p>
+  <p align="center" style="color:FF0000">Мои разработки</p>
 </p>
 <p align="center">
 <a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="STM32, ESP32, ..." width="30" height= "30"/></a>&nbsp;
