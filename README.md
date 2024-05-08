@@ -1,6 +1,6 @@
 <a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F&center=true&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&font=Fira%20Code&color=DBF71F&center=true&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 </a>
 <p align="center">
