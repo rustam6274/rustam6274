@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Программное обеспечение&color=DBF71F&center=true&font=Fira%20Code&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 </a>
-<p align="center">
-  <p align="center">Портфолио</p>
-</p>
 
 <p align="center">
 <a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="STM32, ESP32, ..." width="30" height= "30"/></a>&nbsp;
