@@ -1,5 +1,10 @@
+<a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none">
 <p align="center">
-  <a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F)](https://git.io/typing-svg)</a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F)](https://git.io/typing-svg)</p>
+</a>
+
+
+<p align="center">
   <p align="center">Мои разработки</p>
 </p>
 
