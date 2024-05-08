@@ -9,7 +9,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&center=true&color=DBF71F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F)](https://git.io/typing-svg)
 
 
 
