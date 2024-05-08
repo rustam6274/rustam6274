@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Разработка+ПО&color=DBF71F&center=true&font=Fira%20Code&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Программное обеспечение&color=DBF71F&center=true&font=Fira%20Code&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 </a>
 <p align="center">
