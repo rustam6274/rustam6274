@@ -1,6 +1,11 @@
-<!---Пример кода-->
+<p align="center">
+  <h3 align="center">Программирование</h3>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Разработка+программного+обеспечения)](https://git.io/typing-svg)
+<p align="center" href="https://github.com/rustam6274/STM32F3DISCOVERY">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 
 
 
