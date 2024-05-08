@@ -4,12 +4,16 @@
 
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F&center=true&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+<p align="center">
   <p align="center">Мои разработки</p>
 </p>
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F&pause=1000)](https://git.io/typing-svg)
 
 
 
