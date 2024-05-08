@@ -1,6 +1,6 @@
 <!---Пример кода-->
-<a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Разработка+программного+обеспечения)](https://git.io/typing-svg)</a>&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Разработка+программного+обеспечения)](https://git.io/typing-svg)
 
 
 
