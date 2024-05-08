@@ -3,7 +3,7 @@
 </p>
 </a>
 <p align="center">
-  <p align="center">Мои разработки</p>
+  <p align="center">Портфолио</p>
 </p>
 
 <p align="center">
