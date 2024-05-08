@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none"><img src="https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&font=Fira%50Code&center=true&width=780&height=50&duration=4000&pause=1000"></a>
+  <a href="https://github.com/rustam6274/STM32F3DISCOVERY" style="text-decoration:none"><img src="https://readme-typing-svg.demolab.com/?lines=Разработка+программного+обеспечения&color=DBF71F&font=Fira+Code&center=true&width=780&height=50&duration=4000&pause=1000"></a>
   <h4 align="center">Мои разработки</h4>
 </p>
 
